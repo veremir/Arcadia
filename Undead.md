@@ -1,0 +1,1 @@
+orang mati di idupin lagi

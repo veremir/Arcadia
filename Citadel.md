@@ -1,0 +1,1 @@
+tempat perkumpulan tentara militer yang ditugaskan dari [[Capital]].

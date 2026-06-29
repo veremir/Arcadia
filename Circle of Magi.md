@@ -1,0 +1,1 @@
+Sekolah magic tempat [[Joshua]] belajar

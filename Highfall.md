@@ -1,0 +1,1 @@
+daerah perbukitan, [[Circle of Magi]] ada di daerah ini.

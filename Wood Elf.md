@@ -1,0 +1,1 @@
+sub race dari [[Elf]]

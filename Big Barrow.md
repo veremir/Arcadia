@@ -1,0 +1,1 @@
+tempat persembunyian [[Kobold]] dan [[Black Dragon]]

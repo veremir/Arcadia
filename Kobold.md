@@ -1,0 +1,1 @@
+bentuk kecil dari naga, dragonborn?
