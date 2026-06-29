@@ -1,7 +1,9 @@
+# Arcadia
+
 Arcadia adalah sebuah negara yang terkutuk [Blood Moon](<Blood Moon.md>), sebuah kutukan yang membuat bulan menjadi berwarna merah darah, karena hal itu masyarakatnya sakit seakan menjadi mayat hidup, naga pun mulai muncul dan menghancurkan kota-kota di Arcadia. Apakah [The Party](<The Party.md>) dapat menyelamatkan negara tersebut? atau akan termakan kutukan Blood Moon?
 
 
-# The Party
+## The Party
 
 - [Bulbul bin Balbil](<Bulbul bin Balbil.md>)
 - [Ser Cedric Duskenbane](<Ser Cedric Duskenbane.md>)
@@ -9,7 +11,7 @@ Arcadia adalah sebuah negara yang terkutuk [Blood Moon](<Blood Moon.md>), sebuah
 - [Yakobus Ginting](<Yakobus Ginting.md>)
 
 
-# Adventure Journals
+## Adventure Journals
 
 - [First Adventure - The Sick](<First Adventure - The Sick.md>)
 - [Second Adventure - The Werewolf](<Second Adventure - The Werewolf.md>)
@@ -18,7 +20,7 @@ Arcadia adalah sebuah negara yang terkutuk [Blood Moon](<Blood Moon.md>), sebuah
 - [Fifth Adventure - The Chaos](<Fifth Adventure - The Chaos.md>)
 
 
-# Known Character
+## Known Character
 
 - [Aldoz](<Aldoz.md>)
 - [Alduin](<Alduin.md>)

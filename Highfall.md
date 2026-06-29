@@ -1,1 +1,1 @@
-daerah perbukitan, [[Circle of Magi]] ada di daerah ini.
+daerah perbukitan, [Circle of Magi](<Circle of Magi.md>) ada di daerah ini.
