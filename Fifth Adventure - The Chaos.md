@@ -1,3 +1,7 @@
-[[Yakobus Ginting]] ngeliat [[Joshua]] lagi belajar [[Blood Magic]] lagi, trus lagi berusaha nge enchant senjata/armornya, trus [[Bulbul bin Balbil]] bangun, nanyain lagi ngapain nih, trus diboongin kalo [[Joshua]] ga belajar [[Blood Magic]].
+[Yakobus Ginting](<Yakobus Ginting.md>) ngeliat [Joshua](<Joshua.md>) lagi belajar [Blood Magic](<Blood Magic.md>) lagi, trus lagi berusaha nge enchant senjata/armornya, trus [Bulbul bin Balbil](<Bulbul bin Balbil.md>) bangun, nanyain lagi ngapain nih, trus diboongin kalo [Joshua](<Joshua.md>) ga belajar [Blood Magic](<Blood Magic.md>).
 
-[[Joshua]] ngajakin [[The Party]] ke [[Highfall]] 
+[Joshua](<Joshua.md>) ngajakin [The Party](<The Party.md>) ke [Highfall](<Highfall.md>) buat cari tau [Black Dragon](<Black Dragon.md>) yang nyerang [Westrun](<Westrun.md>) asalnya dari mana.
+
+pas mao berangkat, si [Alduin](<Alduin.md>) gedor2 pintu tempat kita nginep, ngasih kabar kalo [Citadel](<Citadel.md>) mao bunuh anaknya karena udah pake [Staff of Red Moon](<Staff of Red Moon.md>) sembarangan, trus kita mutusin buat bawa tu bocah kabur biar ga dibunuh. tapi pas lagi ngobrol gitu, warga udah di depan tempat nginep minta bukti anaknye dibunuh. dengan shenanigans biasa si [Bulbul bin Balbil](<Bulbul bin Balbil.md>) pake minor illusion bawa kepala anaknya tapi warga ga percaya, si [Veremir Vaelon](<Veremir Vaelon.md>) pake disguise self berubah jadi alduin tapi ngomongnye ngelantur, trus warga pada inisiatif mau manggil [Inquisitor](<Inquisitor.md>), yaudeh si [Ser Cedric Duskenbane](<Ser Cedric Duskenbane.md>) lempar flashbang ke luar, warga buta semua termasuk [Bulbul bin Balbil](<Bulbul bin Balbil.md>) dan [Veremir Vaelon](<Veremir Vaelon.md>), mereka diseret kabur lewat jendela langsung ke kereta kuda trus cabut.
+
+[The Party](<The Party.md>) jalan terus dengan aman, tapi sebelum sampe ke [Highfall](<Highfall.md>) ada outpost yang dijaga sama [Inquisitor](<Inquisitor.md>). pas ngeliat itu, 
