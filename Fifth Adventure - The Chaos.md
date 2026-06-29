@@ -4,4 +4,6 @@
 
 pas mao berangkat, si [Alduin](<Alduin.md>) gedor2 pintu tempat kita nginep, ngasih kabar kalo [Citadel](<Citadel.md>) mao bunuh anaknya karena udah pake [Staff of Red Moon](<Staff of Red Moon.md>) sembarangan, trus kita mutusin buat bawa tu bocah kabur biar ga dibunuh. tapi pas lagi ngobrol gitu, warga udah di depan tempat nginep minta bukti anaknye dibunuh. dengan shenanigans biasa si [Bulbul bin Balbil](<Bulbul bin Balbil.md>) pake minor illusion bawa kepala anaknya tapi warga ga percaya, si [Veremir Vaelon](<Veremir Vaelon.md>) pake disguise self berubah jadi alduin tapi ngomongnye ngelantur, trus warga pada inisiatif mau manggil [Inquisitor](<Inquisitor.md>), yaudeh si [Ser Cedric Duskenbane](<Ser Cedric Duskenbane.md>) lempar flashbang ke luar, warga buta semua termasuk [Bulbul bin Balbil](<Bulbul bin Balbil.md>) dan [Veremir Vaelon](<Veremir Vaelon.md>), mereka diseret kabur lewat jendela langsung ke kereta kuda trus cabut.
 
-[The Party](<The Party.md>) jalan terus dengan aman, tapi sebelum sampe ke [Highfall](<Highfall.md>) ada outpost yang dijaga sama [Inquisitor](<Inquisitor.md>). pas ngeliat itu, 
+[The Party](<The Party.md>) jalan terus dengan aman, tapi sebelum sampe ke [Highfall](<Highfall.md>) ada outpost yang dijaga sama [Inquisitor](<Inquisitor.md>). pas ngeliat itu, [Joshua](<Joshua.md>) sama [Dalmatias](<Dalmatias.md>) buru2 didandanin buat jadi ibu2 biar ga ketauan.
+
+Sesampainya di depan outpost, kite boongin penjaga nya pake nama samaran sama mengaku kalo dari benua lain yang bernama Westerosi, 
