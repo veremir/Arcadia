@@ -1,3 +1,10 @@
+---
+Date: 2026-06-27
+tags:
+  - Campaign
+---
+---
+
 [Yakobus Ginting](<Yakobus Ginting.md>) ngeliat [Joshua](<Joshua.md>) lagi belajar [Blood Magic](<Blood Magic.md>) lagi, trus lagi berusaha nge enchant senjata/armornya, trus [Bulbul bin Balbil](<Bulbul bin Balbil.md>) bangun, nanyain lagi ngapain nih, trus diboongin kalo [Joshua](<Joshua.md>) ga belajar [Blood Magic](<Blood Magic.md>).
 
 [Joshua](<Joshua.md>) ngajakin [The Party](<The Party.md>) ke [Highfall](<Highfall.md>) buat cari tau [Black Dragon](<Black Dragon.md>) yang nyerang [Westrun](<Westrun.md>) asalnya dari mana.

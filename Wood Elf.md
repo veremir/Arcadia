@@ -1,1 +1,1 @@
-sub race dari [[Elf]]
+sub race dari [Elf](<Elf.md>)

@@ -1,1 +1,1 @@
-Bisa ngebangkitin [[Undead Dragon]]
+Bisa ngebangkitin [Undead Dragon](<Undead Dragon.md>)
