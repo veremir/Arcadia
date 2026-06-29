@@ -6,4 +6,13 @@ pas mao berangkat, si [Alduin](<Alduin.md>) gedor2 pintu tempat kita nginep, nga
 
 [The Party](<The Party.md>) jalan terus dengan aman, tapi sebelum sampe ke [Highfall](<Highfall.md>) ada outpost yang dijaga sama [Inquisitor](<Inquisitor.md>). pas ngeliat itu, [Joshua](<Joshua.md>) sama [Dalmatias](<Dalmatias.md>) buru2 didandanin buat jadi ibu2 biar ga ketauan.
 
-Sesampainya di depan outpost, kite boongin penjaga nya pake nama samaran sama mengaku kalo dari benua lain yang bernama Westerosi, 
+Sesampainya di depan outpost, kite boongin penjaga nya pake nama samaran sama mengaku kalo dari benua lain yang bernama Westerosi, cekcok dikit tapi akhirnya bisa masuk ke dalem kota.
+
+Di dalem langsung ketemu sama [Alan](<Alan.md>), salah satu commander dari [Inquisitor](<Inquisitor.md>) ngasih misi basmi manticore yang ngerecokin supply line. kalo berhasil bunuh manticore dapet 1000 gold. Sepakat, trus dia suruh 2 inquisitor buat nemenin kita: [inq 1-monk](<inq 1-monk.md>) [[inq 2-warlock]].
+
+>sebelum jalan ke hutannya belanja dulu: #items 
+> - 7 bom
+> - 70 elemental arrow
+> - lupa apa lagi
+
+Tiba di tempat biasa manticore terlihat, ternyata yang muncul itu [Chimera](<Chimera.md>), berhasil dikalahin sama semuanya, pas chimera udah mau mati, [Veremir Vaelon](<Veremir Vaelon.md>) manggil [Vhaldak](<Vhaldak.md>). Dua inquisitor itu akhirnya terbantai lagi, dan Vhaldak menginfokan bahwa kemungkinan [Black Dragon](<Black Dragon.md>) akan menyerang [Westpire](<Westpire.md>), kota kelahiran [[The Heroes of Westpire]].
