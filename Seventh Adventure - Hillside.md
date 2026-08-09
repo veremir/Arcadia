@@ -1,0 +1,2 @@
+awalnya kita lagi istirahat setelah menang turnamen ronde satu. Pas lagi istirahat itu kita manfaatin waktu buat nyari tau dimana letak bapaknya [Lilia](<Lilia.md>). [Veremir Vaelon](<Veremir Vaelon.md>) pake find familiar buat ngecek sekitar, trus malah ketemu [Margaret](<Margaret.md>) yang lagi meeting sama [Peter Butterscotch](<Peter Butterscotch.md>), dan ternyata turnamen ini udah dicurangi biar [The Party](<The Party.md>) ga menang.
+

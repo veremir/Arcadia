@@ -15,7 +15,7 @@ pas mao berangkat, si [Alduin](<Alduin.md>) gedor2 pintu tempat kita nginep, nga
 
 Sesampainya di depan outpost, kite boongin penjaga nya pake nama samaran sama mengaku kalo dari benua lain yang bernama Westerosi, cekcok dikit tapi akhirnya bisa masuk ke dalem kota.
 
-Di dalem langsung ketemu sama [Alan](<Alan.md>), salah satu commander dari [Inquisitor](<Inquisitor.md>) ngasih misi basmi manticore yang ngerecokin supply line. kalo berhasil bunuh manticore dapet 1000 gold. Sepakat, trus dia suruh 2 inquisitor buat nemenin kita: [inq 1-monk](<inq 1-monk.md>) [[inq 2-warlock]].
+Di dalem langsung ketemu sama [Adam](<Adam.md>), salah satu commander dari [Inquisitor](<Inquisitor.md>) ngasih misi basmi manticore yang ngerecokin supply line. kalo berhasil bunuh manticore dapet 1000 gold. Sepakat, trus dia suruh 2 inquisitor buat nemenin kita: [inq 1-monk](<inq 1-monk.md>) [[inq 2-warlock]].
 
 >sebelum jalan ke hutannya belanja dulu: #items 
 > - 7 bom

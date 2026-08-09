@@ -1,0 +1,1 @@
+Panah yang dibuat khusus untuk bunuh naga.
