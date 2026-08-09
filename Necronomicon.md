@@ -1,0 +1,1 @@
+Buku atau artefak yang berisikan tentang [Blood Magic](<Blood Magic.md>)

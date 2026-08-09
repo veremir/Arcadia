@@ -20,6 +20,7 @@ Arcadia adalah sebuah negara yang terkutuk [Blood Moon](<Blood Moon.md>), sebuah
 - [Fifth Adventure - The Chaos](<Fifth Adventure - The Chaos.md>)
 - [Sixth Adventure - The Tournament](<Sixth Adventure - The Tournament.md>)
 - [Seventh Adventure - Hillside](<Seventh Adventure - Hillside.md>)
+- [Eighth Adventure - Highfall](<Eighth Adventure - Highfall.md>)
 
 
 ## Known Character
@@ -27,9 +28,12 @@ Arcadia adalah sebuah negara yang terkutuk [Blood Moon](<Blood Moon.md>), sebuah
 - [Aldoz](<Aldoz.md>)
 - [Alduin](<Alduin.md>)
 - [Alfred](<Alfred.md>)
+- [Astus](<Astus.md>)
 - [Baldur](<Baldur.md>)
 - [Bapak Dwarf](<Bapak Dwarf.md>)
+- [Belle](<Belle.md>)
 - [Dalmatias](<Dalmatias.md>)
+- [Donna](<Donna.md>)
 - [Edelweiss](<Edelweiss.md>)
 - [Jason Whitefang](<Jason Whitefang.md>)
 - [Joshua](<Joshua.md>)
@@ -39,7 +43,10 @@ Arcadia adalah sebuah negara yang terkutuk [Blood Moon](<Blood Moon.md>), sebuah
 - [Morrigan](<Morrigan.md>)
 - [Peter Butterscotch](<Peter Butterscotch.md>)
 - [Sahir](<Sahir.md>)
+- [Ser Adam](<Ser Adam.md>)
 - [Ser Dominica](<Ser Dominica.md>)
+- [Ser Gregory](<Ser Gregory.md>)
 - [Thorn - Mayor of Westpire](<Thorn - Mayor of Westpire.md>)
+- [Thousand Arms the Giant](<Thousand Arms the Giant.md>)
 - [Vhaldak](<Vhaldak.md>)
 - [Walter Smith](<Walter Smith.md>)
