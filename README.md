@@ -18,6 +18,8 @@ Arcadia adalah sebuah negara yang terkutuk [Blood Moon](<Blood Moon.md>), sebuah
 - [Third Adventure - The Dying](<Third Adventure - The Dying.md>)
 - [Fourth Adventure - The Dragon](<Fourth Adventure - The Dragon.md>)
 - [Fifth Adventure - The Chaos](<Fifth Adventure - The Chaos.md>)
+- [Sixth Adventure - The Tournament](<Sixth Adventure - The Tournament.md>)
+- [Seventh Adventure - Hillside](<Seventh Adventure - Hillside.md>)
 
 
 ## Known Character
